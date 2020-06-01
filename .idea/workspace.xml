@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -22,6 +25,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1c0hArC4X8XH76WauPT05NC5pSJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,7 +66,7 @@
       <workItem from="1590746405026" duration="353000" />
       <workItem from="1590747067532" duration="780000" />
       <workItem from="1590834199606" duration="5741000" />
-      <workItem from="1590975694539" duration="14954000" />
+      <workItem from="1590975694539" duration="15598000" />
     </task>
     <servers />
   </component>
