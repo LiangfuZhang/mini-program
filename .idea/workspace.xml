@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d78da868-818f-423b-abc1-87b291e777f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1c0hArC4X8XH76WauPT05NC5pSJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/home" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zlf\WeChatProjects\miniprogram-1\images\home" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zlf\WeChatProjects\miniprogram-1\components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d78da868-818f-423b-abc1-87b291e777f4" name="Default Changelist" comment="" />
+      <created>1589671277172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589671277172</updated>
+      <workItem from="1589671278364" duration="16963000" />
+      <workItem from="1589783778399" duration="15000" />
+      <workItem from="1590041366354" duration="1258000" />
+      <workItem from="1590219628007" duration="7179000" />
+      <workItem from="1590372069710" duration="6391000" />
+      <workItem from="1590385491740" duration="4604000" />
+      <workItem from="1590399959754" duration="27000" />
+      <workItem from="1590746405026" duration="353000" />
+      <workItem from="1590747067532" duration="780000" />
+      <workItem from="1590834199606" duration="5741000" />
+      <workItem from="1590975694539" duration="14954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="685" y="215" key="FileChooserDialogImpl" timestamp="1590746746954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590746746954" />
+    <state x="327" y="0" key="SettingsEditor" timestamp="1589698828297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="327" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589698828297" />
+    <state x="530" y="239" key="run.anything.popup" timestamp="1590747164381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="530" y="239" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590747164381" />
+  </component>
+</project>
