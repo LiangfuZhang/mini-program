@@ -20,20 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d78da868-818f-423b-abc1-87b291e777f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/models/cell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/models/fence-group.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/models/fence.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/models/judger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/models/matrix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/models/sku-code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/enum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/spu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/spu-preview/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/spu-preview/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/spu-preview/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/spu-preview/index.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/util.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +46,9 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1c0hArC4X8XH76WauPT05NC5pSJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,7 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../phpstudy/WWW/daichao-admin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../phpstudy/WWW/haili-supply-4v-admin" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -102,7 +92,10 @@
       <workItem from="1590975694539" duration="16197000" />
       <workItem from="1591086961694" duration="2720000" />
       <workItem from="1591242004878" duration="361000" />
-      <workItem from="1591581490966" duration="22605000" />
+      <workItem from="1591581490966" duration="22839000" />
+      <workItem from="1591671019645" duration="75000" />
+      <workItem from="1592186489031" duration="468000" />
+      <workItem from="1592199075764" duration="163000" />
     </task>
     <servers />
   </component>
@@ -119,12 +112,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="685" y="215" key="FileChooserDialogImpl" timestamp="1591242364524">
+    <state x="685" y="215" key="FileChooserDialogImpl" timestamp="1591671093440">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="685" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591242364524" />
+    <state x="685" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591671093440" />
     <state x="327" y="0" key="SettingsEditor" timestamp="1589698828297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
